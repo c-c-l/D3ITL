@@ -1,6 +1,7 @@
 # D3ITL
 ☄ Interactive timeline built with D3 with pure CSS animations  
 
+[Live Demo](https://c-c-l.github.io/timeline)
 **any suggestion is welcomed :)**  
 
 ## Features  
