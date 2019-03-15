@@ -2,7 +2,7 @@
 ☄ Interactive timeline built with D3 with pure CSS animations  
 
 [Live Demo](https://c-c-l.github.io/timeline)  
-**any suggestion is welcomed :)**  
+**any suggestion is welcome :)**  
 
 ## Features  
 - Size of the circle depends on the duration of the experience  
