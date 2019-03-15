@@ -1,0 +1,90 @@
+html {
+  padding: 20px 50px;
+}
+h2 {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 32px;
+}
+.timeline-base {
+  stroke: #444;
+  stroke-width: 0.2;
+}
+.circle-category {
+  transition: fill-opacity 0.2s, r 0.5s;
+  -webkit-transition: fill-opacity 0.2s, r 0.5s;
+}
+.circle-education,
+.circle-education ~ .text-position,
+.details-education .text-position {
+  color: #f6b93b;
+  fill: #f6b93b;
+}
+.circle-work,
+.circle-work ~ .text-position,
+.details-work .text-position {
+  color: #78e08f;
+  fill: #78e08f;
+}
+.circle-hovered {
+  fill-opacity: 0.2;
+}
+.circle-clicked {
+  fill: #fff;
+  transition: fill 1s, r 0.9s;
+  -webkit-transition: fill 1s, r 0.9s;
+}
+.text-date,
+.text-position {
+  transition: opacity 0.7s ease-in-out;
+  -webkit-transition: opacity 0.7s ease-in-out;
+}
+.text-date {
+  fill: #888;
+  font-family: 'Thasadith', sans-serif;
+}
+.details .text-date {
+  margin-right: 15px;
+}
+.text-place {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 18px;
+  fill: #888;
+  margin-top: 10px;
+}
+.text-place.hovered,
+.text-desc.hovered,
+.text-date-end.hovered {
+  transition: opacity 1.5s;
+}
+.text-place,
+.text-desc,
+.text-date-end {
+  transition: opacity 0.1s;
+}
+.position-title {
+  font-size: 25px;
+}
+.text-position,
+.text-desc {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.text-desc {
+  color: #444;
+  margin-top: 20px;
+}
+.close-icon {
+  color: #ccc;
+  cursor: pointer;
+  float: right;
+  font-size: 38px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.title {
+  clear: both;
+  display: inline-block;
+}
+.details {
+  transition: opacity 1s ease-in-out;
+}
