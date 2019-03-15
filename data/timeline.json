@@ -1,0 +1,202 @@
+[
+  {
+  "id": 0,
+  "name": "Bachelor degree in Japanese and English languages",
+  "category": "Education",
+  "placeName": "Université de Grenoble (Stendhal)",
+  "country": "France",
+  "startDate": "2010-09",
+  "endDate": "2013-07",
+  "description":["Japanese (Kanji, Grammar, History, Language practise)",
+    "English (British and American history, Grammar, Language practise)",
+   "Economy, Accounting, Law, International law",
+   "Introduction to computer Science (Javascript, Adobe Flash Player, Microsoft Access, CMS)"],
+  "skills": [
+    "english",
+    "japanese",
+    "law",
+    "economics"
+  ]
+},
+{
+  "id": 1,
+  "name": "Exchange Student",
+  "category": "Education",
+  "placeName": "Nagoya University of Foreign Studies",
+  "country": "Japan",
+  "startDate": "2012-09",
+  "endDate": "2013-07",
+  "description": ["Japanese language classes JLPT N3, JLPT N2",
+  "Tourism & Hospitality",
+  "Economy",
+  "British law",
+  "Sociology"],
+  "skills": [
+    "english",
+    "japanese",
+    "law",
+    "economics",
+    "sociology",
+    "tourism industry"
+  ]
+},
+{
+  "id": 2,
+  "name": "Master degree in Computer Science",
+  "category": "Education",
+  "placeName": "Université de Grenoble",
+  "country": "France",
+  "startDate": "2016-09",
+  "endDate": "2018-07",
+  "description": ["Algorithms",
+  "Java",
+  "Web Dev",
+  "Systems & Networks",
+  "DB (SQL)",
+  "HCI",
+  "AI"],
+  "skills": [
+    "java",
+    "algorithms",
+    "javascript",
+    "php",
+    ".NET",
+    "SQL"
+  ]
+},
+{
+  "id": 3,
+  "name": "Project Manager and Front-End Engineer",
+  "category": "Work",
+  "placeName": "Studio Umi",
+  "country": "Japan",
+  "startDate": "2015-02",
+  "endDate": "2016-07",
+  "description": ["Web project planning",
+  "Budget prevision",
+  "Team and deadlines management",
+  "HTML",
+  "CSS",
+  "SCSS",
+  "Sass",
+  "Gulp",
+  "jQuery",
+  "GitLab",
+  "Drupal(7)",
+  "Events & Talks : CMS Summer Festival Osaka, Start Up Week End Nagahama Shiga, Drupal Cafe, Code for Shiga"],
+  "skills": [
+    "html",
+    "css",
+    "scss",
+    "javascript",
+    "jQuery",
+    "php",
+    "Drupal"
+  ]
+},
+{
+  "id": 4,
+  "name": "Data Vizualisation Internship",
+  "category": "Work",
+  "placeName": "Atos Bull",
+  "country": "France",
+  "startDate": "2018-01",
+  "endDate": "2018-07",
+  "description": "Design and development of graphical solutions for HPC data analysis (D3.js)",
+  "skills": [
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "d3.js",
+    "Symfony"
+  ]
+},
+{
+  "id": 5,
+  "name": "Software Engineer at Schneider Electric",
+  "category": "Work",
+  "placeName": "Thales Services",
+  "country": "France",
+  "startDate": "2018-09",
+  "endDate": "2019-01",
+  "description": "Development of an application for electrical pannels (Spring, Angular, MongoDB)",
+  "skills": [
+    "java",
+    "angular",
+    "mongoDB",
+    "mongoshell"
+  ]
+},
+{
+  "id": 6,
+  "name": "Research for version upgrade at Richemont",
+  "category": "Work",
+  "placeName": "Thales Services",
+  "country": "France",
+  "startDate": "2019-01",
+  "endDate": "2019-02",
+  "description": "Study to evaluate the impact of an application upgrade (SQL)",
+  "skills": [
+    "SQL"
+  ]
+},
+{
+  "id": 7,
+  "name": "Introduction to Data Science in Python",
+  "category": "Education",
+  "placeName": "Coursera",
+  "country": "France",
+  "startDate": "2018-10",
+  "endDate": "2018-11-29",
+  "description": "Courses : What is Data Science, Open tools for Data Science, Data Science Methodology, Databases and SQL for Data Science",
+  "skills": [
+    "Python",
+    "Jupyter Notebooks",
+    "SQL"
+  ]
+},
+{
+  "id": 8,
+  "name": "IBM Data Science Courses",
+  "category": "Education",
+  "placeName": "Coursera",
+  "country": "France",
+  "startDate": "2018-11-20",
+  "endDate": "2019-01-25",
+  "description": "Python for Data Science, Data Analysis with Python, Data Visualization with Python",
+  "skills": [
+    "Python",
+    "Jupyter Notebooks",
+    "Matplotlib",
+    "Numpy",
+    "Seaborn"
+  ]
+},
+{
+  "id": 9,
+  "name": "Managing Data Analysis",
+  "category": "Education",
+  "placeName": "Coursera",
+  "country": "France",
+  "startDate": "2018-12-23",
+  "endDate": "2019-01-08",
+  "description": "Course about the process of managing data analysis and EDA",
+  "skills": [
+    "Data Analysis"
+  ]
+},
+{
+  "id": 10,
+  "name": "Interactivity with JavaScript",
+  "category": "Education",
+  "placeName": "Coursera",
+  "country": "France",
+  "startDate": "2016-01-24",
+  "endDate": "2016-02-17",
+  "description": "Basics of Javascript language",
+  "skills": [
+    "Javascript"
+  ]
+}
+]
